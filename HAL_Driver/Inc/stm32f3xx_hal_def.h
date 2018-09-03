@@ -44,9 +44,9 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f3xx.h"
-#if defined USE_LEGACY
+//#if defined USE_LEGACY
 #include "Legacy/stm32_hal_legacy.h"
-#endif
+//#endif
 #include <stdio.h>
 
 /* Exported types ------------------------------------------------------------*/
